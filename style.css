@@ -15,6 +15,7 @@ h1{
 }
 .mark{
     color: orange;
+    
 }
 h3{
     font-size: 17px;
@@ -40,4 +41,39 @@ a{
     background-image: url("images/top-banner.png");
     height: 500px;
     background-repeat: no-repeat;
+}
+h2{
+    font-size: 25px;
+    opacity: .8;
+    text-transform: uppercase;
+}
+.dream{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    height: 290px;
+    background-position: right;
+}
+.second{
+    
+    box-shadow: 10px 10px 30px olive;
+    border-radius: 10px;
+}
+#junior{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
+#Senior{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    
+}
+.experience{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    height: 350px;
+    background-position: left;
+    
 }
