@@ -1,0 +1,43 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    margin: 0px;
+
+}
+.first{
+   width: 40%; 
+   margin-left: 5%;
+   float: left;
+}
+h1{
+    font-size: 30px;
+    text-transform: uppercase;
+    opacity: .8;
+}
+.mark{
+    color: orange;
+}
+h3{
+    font-size: 17px;
+    color: orchid;
+}
+p{
+    font-size: 15px;
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    background-color:blue;
+    color: white;
+    padding-left: 15PX;
+    padding-right: 15px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+ .first img{
+    width: 70%;
+}
+.banner{
+    background-image: url("images/top-banner.png");
+    height: 500px;
+    background-repeat: no-repeat;
+}
